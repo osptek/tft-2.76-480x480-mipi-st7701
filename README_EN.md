@@ -44,8 +44,6 @@ Repo id: `2.76-tft-480x480-mipi-st7701`
 
 ## YDP276B004-V1
 
-**Notes:** Module.
-
 ---
 
 ## How to Switch Branches
