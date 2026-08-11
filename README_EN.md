@@ -38,11 +38,13 @@ Repo id: `2.76-tft-480x480-mipi-st7701`
 
 | Version | Image | Notes |
 | ------- | ----- | ----- |
-| YDP276B004-V1 | — | [Details](#ydp276b004-v1) |
+| YDP276B004-V1 | <img alt="YDP276B004-V1" src="./images/YDP276B004-V1.png" width="120" /> | [Details](#ydp276b004-v1) |
 
 ---
 
 ## YDP276B004-V1
+
+<p align="center"><img alt="YDP276B004-V1" src="./images/YDP276B004-V1.png" width="320" /></p>
 
 ---
 
