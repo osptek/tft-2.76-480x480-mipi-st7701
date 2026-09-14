@@ -31,7 +31,7 @@
 
 OSPTEK **2.76″ 480×480 TFT (IPS)** is a **MIPI** color display module driven by **ST7701**. Suited to handheld devices, instruments, and compact square HMI.
 
-Spec ID (repository name): `2.76-tft-480x480-mipi-st7701`
+Spec ID (repository name): `tft-2.76-480x480-mipi-st7701`
 
 Current module version: **YDP276B004-V1**. Electrical and mechanical details follow [`docs/YDP276B004-V1.pdf`](./docs/YDP276B004-V1.pdf).
 
@@ -56,7 +56,7 @@ Current module version: **YDP276B004-V1**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-2.76-tft-480x480-mipi-st7701/                                # repo root (nav: ../../README_EN.md)
+tft-2.76-480x480-mipi-st7701/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP276B004-V1/                                # full materials for this part number
         ├── README.md
