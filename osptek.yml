@@ -5,7 +5,7 @@ size: "2.76"
 panel: tft
 resolution: 480x480
 interface: [mipi]
-shape: rect
+shape: round
 
 versions:
   - id: YDP276B004-V1
