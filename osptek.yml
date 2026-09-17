@@ -1,0 +1,14 @@
+id: tft-2.76-480x480-mipi-st7701
+category: displays
+
+size: "2.76"
+panel: tft
+resolution: 480x480
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP276B004-V1
+    driver: ST7701S
+    touch: none
+    note: none
