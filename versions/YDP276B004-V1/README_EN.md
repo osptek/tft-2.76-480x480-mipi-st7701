@@ -52,6 +52,7 @@ Current module version: **YDP276B004-V1**. Electrical and mechanical details fol
 | Description | Path |
 | ---- | ---- |
 | ESP32-P4 · ST7701 MIPI DSI + LVGL | [`examples/esp32p4-idf5_st7701-mipi-dsi/`](./examples/esp32p4-idf5_st7701-mipi-dsi/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7701-mipi_lvgl9/`](./examples/esp32p4-idf6_st7701-mipi_lvgl9/) |
 
 ## Repository layout
 
@@ -80,6 +81,7 @@ tft-2.76-480x480-mipi-st7701/                                # repo root (nav: .
 ### Samples
 
 - [ESP32-P4 ST7701 MIPI DSI + LVGL](./examples/esp32p4-idf5_st7701-mipi-dsi/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9](./examples/esp32p4-idf6_st7701-mipi_lvgl9/)
 
 ## Buy
 

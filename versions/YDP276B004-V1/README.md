@@ -52,6 +52,7 @@ OSPTEK **2.76 寸 480×480 TFT（IPS）** 是一款 **MIPI** 接口彩色显示�
 | 说明 | 路径 |
 | ---- | ---- |
 | ESP32-P4 · ST7701 MIPI DSI + LVGL | [`examples/esp32p4-idf5_st7701-mipi-dsi/`](./examples/esp32p4-idf5_st7701-mipi-dsi/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7701-mipi_lvgl9/`](./examples/esp32p4-idf6_st7701-mipi_lvgl9/) |
 
 ## 仓库结构
 
@@ -80,6 +81,7 @@ tft-2.76-480x480-mipi-st7701/                                # 仓库根（导�
 ### 示例工程
 
 - [ESP32-P4 ST7701 MIPI DSI + LVGL](./examples/esp32p4-idf5_st7701-mipi-dsi/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9](./examples/esp32p4-idf6_st7701-mipi_lvgl9/)
 
 ## 购买链接
 
