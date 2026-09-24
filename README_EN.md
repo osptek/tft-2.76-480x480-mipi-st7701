@@ -18,6 +18,7 @@
 - [About](#about)
 - [Versions](#versions)
 - [YDP276B004-V1](#ydp276b004-v1)
+- [YDP276B002-V1](#ydp276b002-v1)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,6 +38,7 @@ Repo id: `tft-2.76-480x480-mipi-st7701`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
+| YDP276B002-V1 | <img alt="YDP276B002-V1" src="./versions/YDP276B002-V1/images/product.png" width="120" /> | [Summary](#ydp276b002-v1) | [Full docs](./versions/YDP276B002-V1/) |
 | YDP276B004-V1 | <img alt="YDP276B004-V1" src="./versions/YDP276B004-V1/images/product.png" width="120" /> | [Summary](#ydp276b004-v1) | [Full docs](./versions/YDP276B004-V1/) |
 
 ---
@@ -46,6 +48,16 @@ Repo id: `tft-2.76-480x480-mipi-st7701`
 <p align="center"><img alt="YDP276B004-V1" src="./versions/YDP276B004-V1/images/product.png" width="320" /></p>
 
 Full product page, datasheets, and examples: [versions/YDP276B004-V1/](./versions/YDP276B004-V1/)
+
+---
+
+## YDP276B002-V1
+
+<p align="center"><img alt="YDP276B002-V1" src="./versions/YDP276B002-V1/images/product.png" width="320" /></p>
+
+**Notes:** MIPI, no touch.
+
+Full product page, datasheets, and examples: [versions/YDP276B002-V1/](./versions/YDP276B002-V1/)
 
 ---
 

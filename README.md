@@ -18,6 +18,7 @@
 - [说明](#说明)
 - [版本一览](#版本一览)
 - [YDP276B004-V1](#ydp276b004-v1)
+- [YDP276B002-V1](#ydp276b002-v1)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,6 +38,7 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
+| YDP276B002-V1 | <img alt="YDP276B002-V1" src="./versions/YDP276B002-V1/images/product.png" width="120" /> | [简介](#ydp276b002-v1) | [完整资料](./versions/YDP276B002-V1/) |
 | YDP276B004-V1 | <img alt="YDP276B004-V1" src="./versions/YDP276B004-V1/images/product.png" width="120" /> | [简介](#ydp276b004-v1) | [完整资料](./versions/YDP276B004-V1/) |
 
 ---
@@ -46,6 +48,16 @@
 <p align="center"><img alt="YDP276B004-V1" src="./versions/YDP276B004-V1/images/product.png" width="320" /></p>
 
 完整产品页、规格书与示例：[versions/YDP276B004-V1/](./versions/YDP276B004-V1/)
+
+---
+
+## YDP276B002-V1
+
+<p align="center"><img alt="YDP276B002-V1" src="./versions/YDP276B002-V1/images/product.png" width="320" /></p>
+
+**说明：** MIPI，无触摸。
+
+完整产品页、规格书与示例：[versions/YDP276B002-V1/](./versions/YDP276B002-V1/)
 
 ---
 
